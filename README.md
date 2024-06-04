@@ -1,0 +1,2 @@
+# superstore-powerbi-report
+chart
